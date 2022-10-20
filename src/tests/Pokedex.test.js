@@ -13,7 +13,7 @@ describe('Testando pagina Pokedez', () => {
     expect(titulo).toBeInTheDocument();
   });
 
-  test('Teste ser exibido no próximo pokémon da lista quando o botão Próximo pokémonfor clicado', () => {
+  test('Teste ser exibido no próximo pokémon da lista quando o botão Próximo pokémon for clicado', () => {
     renderWithRouter(<App />);
     const button = screen.getByRole('button', { name: 'Próximo pokémon' });
     expect(button).toBeInTheDocument();
