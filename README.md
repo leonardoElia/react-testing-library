@@ -2,7 +2,7 @@
 
 ## sobre o projeto
 O react-testing-library é um projeto aonde eu uso a bibililioteca testing-library para executar testes no front-end de uma aplicação já pronta 
-disponibilizada pelo curso da trybe. foi meu primeiro contato com testes no front-end então foi um projeto fundemental para que eu entende-se como a bibilioteca
+disponibilizada pelo curso da trybe. Foi meu primeiro contato com testes no front-end então foi um projeto fundemental para que eu entende-se como a bibilioteca
 testing-library funciona
 
 ## tecnologias e ferramentas utilizadas utilizadas
